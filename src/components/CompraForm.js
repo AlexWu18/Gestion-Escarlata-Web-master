@@ -181,7 +181,15 @@ function CompraForm() {
           <option value="">
             --Seleccione el grupo sanguíneo del comprador--
           </option>
-          {/* Opciones del selector de grupo sanguíneo */}
+          <option value="A+">A+</option>
+          <option value="A-">A-</option>
+          <option value="B+">B+</option>
+          <option value="B-">B-</option>
+          <option value="O+">O+</option>
+          <option value="O-">O-</option>
+          <option value="AB+">AB+</option>
+          <option value="AB-">AB-</option>
+      
         </select>
 
         <br></br>

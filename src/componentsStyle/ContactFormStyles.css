@@ -213,7 +213,6 @@ button:disabled {
     background-color: #ffbdce;
     color: #fff;
     font-weight: bold;
-    border: none;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
     text-transform: uppercase;
@@ -234,6 +233,7 @@ button:disabled {
     outline: none;
     box-shadow: 0 0 0 2px #ffbdce;
 }
+
 .from-continer1 button {
     display: inline;
     margin-top: 1px;
